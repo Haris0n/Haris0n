@@ -12,6 +12,7 @@ Sou apaixonado por tecnologia, design e inovação.
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haris0n/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hellrisu)
 [![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/haris0n)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/haris0n?si=be1dc8e42f964f5b)
 
 ![Haris0n GitHub stats](https://github-readme-stats.vercel.app/api?username=Haris0n&show_icons=true&theme=dracula&count_private=true)
 
