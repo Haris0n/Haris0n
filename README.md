@@ -30,5 +30,5 @@ Sou apaixonado por tecnologia, design e inovação.
 
 <div style="display: inline_block">
   <img align="center" alt="Nvidea" src="https://img.shields.io/badge/NVIDIA-RTX3050-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-  <img align="center" alt="AMD" src="https://img.shields.io/badge/AMD-Ryzen_5_5000-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
+  <img align="center" alt="AMD" src="https://img.shields.io/badge/AMD-Ryzen_5_5600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
   <img align="center" alt="Windos" src="https://img.shields.io/badge/Windows-Dell_G15-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
